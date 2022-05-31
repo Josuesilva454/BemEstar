@@ -1,0 +1,12 @@
+{
+"name: Josue",
+"email: josuesilvarosa49@gmail.com",
+"age: 24",
+"municipalityofbirth: "Riberião das neves",
+"address: Heliopolis",
+"City: Belo horizonte",
+"phoner: 349476288"
+}
+
+
+
